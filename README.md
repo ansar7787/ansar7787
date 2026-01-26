@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Muhammed Ansar
 
-🚀 **Flutter & Full-Stack Mobile Developer** with 1–3 years of hands-on experience building **production-ready mobile applications** using **Flutter, Clean Architecture, MVVM**, and modern backend technologies.
+🚀 **Flutter & Full-Stack Mobile Developer** with 1–3 years of hands-on experience building **production-ready mobile applications** using **Flutter, Clean Architecture**, and modern backend technologies.
 
-I enjoy building **scalable, maintainable, and user-focused apps** — handling everything from polished UI to secure backend APIs.
+I enjoy building **scalable, maintainable, and user-focused apps** — working end-to-end from polished UI to secure backend APIs and real-time features.
 
 ---
 
@@ -11,9 +11,9 @@ I enjoy building **scalable, maintainable, and user-focused apps** — handling 
 ### 📱 Mobile Development
 - Flutter, Dart
 - Clean Architecture
-- MVVM
 - BLoC / Provider
 - Modular & scalable codebase design
+- Offline-first app development
 
 ### 🌐 Backend Development
 - Node.js, Express
@@ -23,8 +23,9 @@ I enjoy building **scalable, maintainable, and user-focused apps** — handling 
 
 ### 🗄️ Database & Cloud
 - Firebase (Auth, Firestore, FCM, Storage)
+- PostgreSQL
 - MongoDB
-- Redis (backend)
+- Redis
 
 ### 🛠 Tools & Integrations
 - Git & GitHub
@@ -39,7 +40,7 @@ I enjoy building **scalable, maintainable, and user-focused apps** — handling 
 ## 🚀 Featured Projects
 
 ### 🗣️ Fluentify — English Speaking Learning App
-A **full-stack English speaking & learning platform** built with Flutter and a NestJS backend, following **Clean Architecture & MVVM** principles.
+A **production-ready, full-stack English speaking & learning platform** built with Flutter and a NestJS backend, following **Clean Architecture** principles.
 
 **Highlights:**
 - Secure authentication (Firebase Auth + JWT)
@@ -50,12 +51,12 @@ A **full-stack English speaking & learning platform** built with Flutter and a N
 - Push notifications & analytics
 
 🔗 **Repository:**  
-https://github.com/ansar7787/Fluentify
+https://github.com/ansar7787/fluentify-app
 
 ---
 
-### 📚 Smart Study Plan — Productivity & Study Planner
-A **Flutter productivity app** designed to help students plan, track, and analyze their study routines using a clean and scalable architecture.
+### 📚 Smart Study Plan — Study Planner & Productivity App
+A **Flutter productivity application** designed to help students plan, schedule, and track their study routines using a clean and scalable architecture.
 
 **Highlights:**
 - Subject & task-based planning
@@ -63,10 +64,9 @@ A **Flutter productivity app** designed to help students plan, track, and analyz
 - Progress tracking with charts & heatmaps
 - Offline-first local storage
 - Firebase authentication & cloud sync
-- Built using **Clean Architecture & MVVM**
 
 🔗 **Repository:**  
-https://github.com/ansar7787/smart-study-plan
+https://github.com/ansar7787/smart-study-plan-app
 
 ---
 
