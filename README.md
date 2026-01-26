@@ -1,75 +1,86 @@
 # 👋 Hi, I'm Muhammed Ansar
 
-🚀 **Flutter & Full-Stack Mobile Developer** with 1–3 years of experience building real-world applications using **Flutter, Firebase, Node.js, and MongoDB**.
+🚀 **Flutter & Full-Stack Mobile Developer** with 1–3 years of hands-on experience building **production-ready mobile applications** using **Flutter, Clean Architecture, MVVM**, and modern backend technologies.
 
-I love creating scalable, clean, and user-focused mobile apps — from UI to backend APIs.
+I enjoy building **scalable, maintainable, and user-focused apps** — handling everything from polished UI to secure backend APIs.
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-### 📱 Mobile
+### 📱 Mobile Development
 - Flutter, Dart
-- State Management (Bloc / Provider)
+- Clean Architecture
+- MVVM
+- BLoC / Provider
+- Modular & scalable codebase design
 
-### 🌐 Backend
+### 🌐 Backend Development
 - Node.js, Express
 - NestJS
-- REST APIs, JWT Authentication
+- REST APIs
+- JWT Authentication
 
 ### 🗄️ Database & Cloud
-- Firebase (Auth, Firestore, FCM)
+- Firebase (Auth, Firestore, FCM, Storage)
 - MongoDB
+- Redis (backend)
 
-### 🛠 Tools
+### 🛠 Tools & Integrations
 - Git & GitHub
 - Postman
-- Razorpay Integration
-- Agora SDK (Audio/Video)
+- Razorpay Payment Gateway
+- Agora SDK (Audio / Video)
+- Firebase Analytics
+- Sentry Crash Reporting
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🗣️ Fluentify (English Speaking App)
-A full-featured English learning & speaking app with fintech-style rewards.
+### 🗣️ Fluentify — English Speaking Learning App
+A **full-stack English speaking & learning platform** built with Flutter and a NestJS backend, following **Clean Architecture & MVVM** principles.
 
-**Key Features:**
-- Authentication (JWT, Firebase Auth)
-- Missions & rewards system
-- Wallet & coin management
-- Razorpay payment integration
+**Highlights:**
+- Secure authentication (Firebase Auth + JWT)
+- Mission-based learning & reward system
+- Wallet & Razorpay payment integration
 - Mentor booking & live sessions
-- Real-time audio/video using Agora
+- Real-time audio/video communication (Agora)
+- Push notifications & analytics
 
-🔗 Repo: _Add link here_
+🔗 **Repository:**  
+https://github.com/ansar7787/Fluentify
 
 ---
 
-### 📚 Smart Study Plan
-A productivity-focused study planning app.
+### 📚 Smart Study Plan — Productivity & Study Planner
+A **Flutter productivity app** designed to help students plan, track, and analyze their study routines using a clean and scalable architecture.
 
-**Key Features:**
-- Subject & task planning
-- Progress tracking
-- Clean Flutter UI
-- Scalable architecture
+**Highlights:**
+- Subject & task-based planning
+- Calendar & alarm-based scheduling
+- Progress tracking with charts & heatmaps
+- Offline-first local storage
+- Firebase authentication & cloud sync
+- Built using **Clean Architecture & MVVM**
 
-🔗 Repo: _Add link here_
+🔗 **Repository:**  
+https://github.com/ansar7787/smart-study-plan
 
 ---
 
 ## 🎯 What I’m Looking For
 - Flutter Developer roles
 - Full-Stack Mobile Developer roles
-- Open to remote & on-site opportunities
+- Open to **remote** and **on-site** opportunities
 
 ---
 
 ## 📫 Contact Me
 - 📧 Email: **muhammedansar7787@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/ansar7](https://www.linkedin.com/in/ansar7/)
+- 💼 LinkedIn: https://www.linkedin.com/in/ansar7/
 
 ---
 
-⭐ _Check out my repositories below — more projects coming soon!_
+⭐ _Thanks for visiting my profile — feel free to explore my repositories!_
