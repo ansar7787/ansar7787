@@ -4,6 +4,13 @@
 
 I enjoy building **scalable, maintainable, and user-focused apps** — working end-to-end from polished UI to secure backend APIs and real-time features.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 ---
 
 ## 🧑‍💻 Tech Stack
@@ -50,8 +57,7 @@ A **production-ready, full-stack English speaking & learning platform** built wi
 - Real-time audio/video communication (Agora)
 - Push notifications & analytics
 
-🔗 **Repository:**  
-https://github.com/ansar7787/fluentify-app
+🔗 https://github.com/ansar7787/fluentify-app
 
 ---
 
@@ -65,8 +71,7 @@ A **Flutter productivity application** designed to help students plan, schedule,
 - Offline-first local storage
 - Firebase authentication & cloud sync
 
-🔗 **Repository:**  
-https://github.com/ansar7787/smart-study-plan-app
+🔗 https://github.com/ansar7787/smart-study-plan-app
 
 ---
 
@@ -80,6 +85,12 @@ https://github.com/ansar7787/smart-study-plan-app
 ## 📫 Contact Me
 - 📧 Email: **muhammedansar7787@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/ansar7/
+
+---
+
+## 📊 GitHub Stats
+
+![Ansar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansar7787&show_icons=true&hide_title=true)
 
 ---
 
