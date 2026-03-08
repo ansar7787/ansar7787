@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammed Ansar
 
-🚀 **Flutter & Full-Stack Mobile Developer** with 1–3 years of hands-on experience building **production-ready mobile applications** using **Flutter, Clean Architecture**, and modern backend technologies.
+🚀 **Flutter & Full-Stack Mobile Developer** with 3 years of hands-on experience building **production-ready mobile applications** using **Flutter, Clean Architecture**, and modern backend technologies.
 
 I enjoy building **scalable, maintainable, and user-focused apps** — working end-to-end from polished UI to secure backend APIs and real-time features.
 
