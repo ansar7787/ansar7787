@@ -137,18 +137,17 @@ Open to:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ansar7787&show_icons=true&theme=default" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=ansar7787&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansar7787&layout=compact&theme=default" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansar7787&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ansar7787">
+<img src="https://streak-stats.demolab.com?user=ansar7787&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 # 📫 Contact
