@@ -133,21 +133,27 @@ Open to:
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ansar7787&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ansar7787&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansar7787&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ansar7787&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansar7787&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ansar7787&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=ansar7787&theme=tokyonight&hide_border=true"/>
 </p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansar7787&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 # 📫 Contact
