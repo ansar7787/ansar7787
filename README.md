@@ -135,11 +135,19 @@ Open to:
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansar7787&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansar7787&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=ansar7787&show_icons=true&theme=default" height="165">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ansar7787)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansar7787&layout=compact&theme=default" height="165">
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ansar7787">
+
+</p>
 
 ---
 
