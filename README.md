@@ -8,6 +8,7 @@ I enjoy building **scalable, maintainable, and user-focused apps** — working e
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-2196F3?style=flat)
 ![Bloc](https://img.shields.io/badge/BLoC-000000?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-green)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
