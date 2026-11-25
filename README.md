@@ -1,8 +1,35 @@
 # 👋 Hi, I'm Muhammed Ansar
 
-🚀 **Flutter Mobile Developer** with hands-on experience building scalable and production-ready mobile applications using **Flutter, Clean Architecture, and Firebase**.
+🚀 **Flutter Developer** from Kerala. I built and launched **Vowl**, an English-learning app that is **live on Google Play**, using **Flutter, BLoC, Clean Architecture, and Firebase**.
 
-I enjoy creating **high-performance, maintainable, and user-focused apps**, working across UI development, API integration, and real-time mobile features.
+I enjoy building user-focused apps, from game-style UI to secure payments and push notifications.
+
+---
+
+# 🏆 Featured Project
+
+## 🎮 Vowl — English Learning Game App
+
+![Google Play](https://img.shields.io/badge/Google%20Play-Live-34A853?style=flat&logo=google-play&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+An English-learning app that I built alone, with **100+ games**, a **200-level curriculum**, and **60,000+ questions** (AI-generated, then reviewed by me over 6+ months).
+
+### Key Features
+- 1v1 PvP duels with live matchmaking and automatic coin refunds
+- Weekly and all-time leaderboards with league tiers and a Hall of Fame
+- Speech recognition, text-to-speech, and on-device translation (ML Kit)
+- Push and local notifications, plus scheduled Cloud Functions (rankings, streaks, Premium expiry)
+- Light, Dark, and AMOLED themes, tested on real Oppo, Realme, Vivo, and Samsung phones
+
+### Engineering Highlights
+- **Server-side payment verification** in Node.js Cloud Functions: Razorpay HMAC signature, status, and amount checks, and Google Play purchase-token checks before Premium or coins are granted
+- **Firestore Security Rules** that stop users granting themselves Premium and cap XP and coin gains
+- **BLoC + get_it** feature-first architecture with a shared `GameScreenMixin<T>`
+- **560+ test files** (unit, BLoC, widget) and **GitHub Actions** CI
+
+🔗 [Google Play](https://play.google.com/store/apps/details?id=com.vowl.app) · [Source code](https://github.com/ansar7787/vowl-app)
 
 ---
 
@@ -15,133 +42,55 @@ I enjoy creating **high-performance, maintainable, and user-focused apps**, work
 ### 🏗 Architecture & State Management
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4285F4?style=flat)
 ![BLoC](https://img.shields.io/badge/BLoC-000000?style=flat)
-![Provider](https://img.shields.io/badge/Provider-2196F3?style=flat)
+![get_it](https://img.shields.io/badge/get__it-02569B?style=flat)
 
-### 🔌 Backend & APIs
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat)
+### ☁️ Backend & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat)
 
-### 🗄 Database
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-F7B93E?style=flat)
+### 💳 Payments
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay)
+![Google Play Billing](https://img.shields.io/badge/Google%20Play%20Billing-34A853?style=flat&logo=google-play&logoColor=white)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### ⚡ Additional Skills
-![Firebase Cloud Messaging](https://img.shields.io/badge/Firebase%20Cloud%20Messaging-FFCA28?style=flat)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-25A162?style=flat)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat)
-![Payment Gateway](https://img.shields.io/badge/Razorpay%20Integration-02042B?style=flat&logo=razorpay)
-![Real-Time Communication](https://img.shields.io/badge/Agora%20SDK-099DFD?style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
-# 🧑‍💻 Development Expertise
+# 🧑‍💻 What I Work With
 
-## 📱 Mobile Development
-- Flutter
-- Dart
-- Clean Architecture
-- State Management (BLoC / Provider)
-- Modular & scalable codebase
-- Offline-first mobile applications
-- Performance optimization
-
-## 🌐 Backend & API Integration
-- REST API integration using HTTP / Dio
-- Node.js & Express.js backend services
-- Secure authentication using JWT
-- API error handling and response management
-- Payment gateway integration (Razorpay)
-
-## ☁️ Cloud Services
-- Firebase Authentication
-- Firestore database
-- Firebase Cloud Messaging (Push Notifications)
-- Firebase Storage
-- Firebase Analytics
-
-## 🗄 Data & Local Storage
-- SQLite (structured local storage)
-- Hive (lightweight key-value database)
-- Offline-first data persistence
-- API data caching for better performance
-
-## 🛠 Tools & Integrations
-- Git & GitHub
-- Postman
-- Razorpay Payment Gateway
-- Agora SDK (Audio / Video)
-- Firebase Analytics
-- Sentry Crash Reporting
+- **Firebase:** Authentication, Firestore, Cloud Functions, Cloud Messaging, Security Rules, Crashlytics, Analytics, Remote Config
+- **Flutter:** GoRouter, responsive UI (ScreenUtil), CustomPainter, Flutter Animate
+- **Testing:** unit, BLoC, and widget tests (mocktail, bloc_test)
 
 ---
 
-# 🚀 Featured Projects
+# 📚 Other Projects (Learning)
 
-## 🗣️ Fluentify — English Speaking Learning App
-
-A **production-ready English speaking & learning platform** built with **Flutter and a Node.js backend**, following **Clean Architecture principles**.
-
-### Key Features
-- Secure authentication (Firebase Auth + JWT)
-- Mission-based learning & reward system
-- Wallet and Razorpay payment integration
-- Mentor booking and live sessions
-- Real-time audio/video communication (Agora)
-- Push notifications and analytics
-
-🔗 Project Repository  
-https://github.com/ansar7787/fluentify-app
-
----
-
-## 📚 Smart Study Plan — Study Planner App
-
-A **Flutter productivity application** designed to help students organize and track their study routines.
-
-### Key Features
-- Subject & task-based planning
-- Calendar scheduling system
-- Progress tracking with charts
-- Offline-first architecture
-- Firebase authentication & cloud sync
-
-🔗 Project Repository  
-https://github.com/ansar7787/smart-study-plan-app
+- **Smart Study Plan:** a Flutter study planner with Clean Architecture and Firebase. [Repo](https://github.com/ansar7787/smart-study-plan-app)
+- **QuantAI:** a Flutter crypto portfolio and market tracker, built for learning. [Repo](https://github.com/ansar7787/quant_ai)
 
 ---
 
 # 🎯 Career Interests
 
-Currently looking for opportunities as:
-
-- Flutter Developer
-- Mobile Application Developer
-- Full-Stack Mobile Developer
+Looking for a **junior Flutter Developer** role.
 
 Open to:
 
-✔ Remote opportunities  
-✔ On-site opportunities  
-✔ Product-based companies  
-✔ Startup environments where I can build impactful products and grow quickly
+✔ Bengaluru, Kochi, Hyderabad, or Remote  
+✔ Startups and product teams where I can ship features and learn from code reviews
 
 ---
 
 # 📫 Contact
 
-📧 Email  
-muhammedansar7787@gmail.com  
-
-💼 LinkedIn  
-https://www.linkedin.com/in/ansar7/
+📧 muhammedansar7787@gmail.com  
+💼 https://www.linkedin.com/in/ansar7/
 
 ---
 
-⭐ Thanks for visiting my profile!  
-Feel free to explore my repositories and connect.
+⭐ Thanks for visiting my profile!
