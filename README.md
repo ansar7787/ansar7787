@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammed Ansar
 
-🚀 **Flutter Developer** from Kerala. I built and launched **Vowl**, an English-learning app that is **live on Google Play**, using **Flutter, BLoC, Clean Architecture, and Firebase**.
+🚀 **Flutter Developer** based in Bengaluru (originally from Kerala). I built and launched **Vowl**, an English-learning app that is **live on Google Play**, using **Flutter, BLoC, Clean Architecture, and Firebase**.
 
 I enjoy building user-focused apps, from game-style UI to secure payments and push notifications.
 
@@ -68,10 +68,12 @@ An English-learning app that I built alone, with **100+ games**, a **200-level c
 
 ---
 
-# 📚 Other Projects (Learning)
+# 📚 Other Projects
 
-- **Smart Study Plan:** a Flutter study planner with Clean Architecture and Firebase. [Repo](https://github.com/ansar7787/smart-study-plan-app)
-- **QuantAI:** a Flutter crypto portfolio and market tracker, built for learning. [Repo](https://github.com/ansar7787/quant_ai)
+- **Fluentify** (full-stack, not released): a Flutter + BLoC app with a NestJS and PostgreSQL backend that I built with AI assistance and understand at a basic level. Razorpay payment verification, Socket.io peer matching, Agora, and Gemini AI feedback. [Repo](https://github.com/ansar7787/fluentify-app)
+- **Smart Study Plan:** a Flutter study planner for college students with BLoC, Clean Architecture, Firebase, Hive, analytics charts, reminders, and a Gemini-powered knowledge hub. [Repo](https://github.com/ansar7787/smart-study-plan-app)
+- **ChatMail:** a real-time chat app (Google Sign-In, Firestore streams, image messages, read receipts, push notifications), built during my internship and published on Google Play (later removed because I did not update its target API level). [Repo](https://github.com/ansar7787/ChatMail)
+- **GoSpendr:** a 13-screen Flutter e-commerce learning project with BLoC/Cubit, Hive, and a Stripe test-mode checkout with a Node.js Cloud Function. [Repo](https://github.com/ansar7787/GoSpendr)
 
 ---
 
